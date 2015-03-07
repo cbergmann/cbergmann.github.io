@@ -1,3 +1,11 @@
-title: Clemens Homepage
-locale: de_DE
-description: meine kleine Homepage
+# Site settings
+title: My github page
+email: ich@cbergmann.net
+description: > # this means to ignore newlines until "baseurl:"
+  This page is only a placeholder. Please move to https://cbergmann.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  cbergmann
+
+# Build settings
+markdown: kramdown
